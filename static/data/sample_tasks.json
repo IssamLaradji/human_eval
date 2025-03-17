@@ -1,0 +1,5 @@
+{
+  "html2image": "Evaluate based on how close the image in 'Model Output' is to '(3) Model Input'",
+  "svg2image": "Evaluate based on how close the image in 'Model Output' is to '(3) Model Input'",
+  "flow2image": "Evaluate based on how the node names and edges in 'Model Output' is close to '(3) Model Input', please disregard colors and orientation"
+}
